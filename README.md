@@ -13,8 +13,8 @@ Wybierz swój ruch, wpisując "rock", "paper" lub "scissors" w konsoli.
 
 Zobacz, czy Twój ruch pokona komputer!
 
-Aktualizacja gry
-Jeśli chcesz zaktualizować grę, aby komputer wybierał również losowy ruch.
+Ewentualnie zautomatyzuj cały wybierania opcji i zrób losowanie dla siebie i dla komputera.
+
 Prześlij screen przedstawiający twój triumf nad komputerem :)
 
 # Zadanie 2
