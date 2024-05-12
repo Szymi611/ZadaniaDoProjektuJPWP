@@ -1,6 +1,6 @@
-package com.example.zadania1
+/*package com.example.zadania1
 
-/*fun main(){
+fun main(){
 
     val wojtekAccount = KlasaDoZad3("Wojtek", 0.0)
     wojtekAccount.deposit(100.0)
