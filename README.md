@@ -2,6 +2,8 @@
 
 Sklonuj lub pobierz repozytorium.
 
+Link do repozytorium: https://github.com/piotrstasiak06/OneSmileTravel
+
 Uruchom program w środowisku obsługującym język Kotlin.
 Programy są zawarte w jednym folderze. Najlepiej odpalać je klikając na nie prawym przyciskiem myszy w menu po lewej stronie. Zadania dwa i trzy są zakomentowane.
 
